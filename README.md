@@ -95,3 +95,4 @@
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,11&height=100&section=footer" width="100%" alt="Purple and teal wave footer"/>
+
