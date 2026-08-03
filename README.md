@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,11&height=200&section=header&text=Rimjhim%20Mallick&fontSize=52&fontAlignY=38&fontColor=fff&animation=twinkling&desc=SDET%20%7C%20Java%20%2F%20Selenium%20%7C%20Learning%20Backend%20%26%20APIs&descSize=16&descAlignY=64&descColor=fff" width="100%" alt="Rimjhim Mallick — SDET, Java/Selenium, learning backend and APIs"/>
+<img src="https://raw.githubusercontent.com/Rimjhimm12/Rimjhimm12/main/assets/banner-header.svg" width="100%" alt="Rimjhim Mallick — SDET, Java/Selenium, learning backend and APIs"/>
 
 <p align="center">
   <strong>SDET building test automation frameworks — now going deeper into backend development and API engineering.</strong>
@@ -71,12 +71,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rimjhimm12&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Rimjhim's GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rimjhimm12&show_icons=true&theme=radical&hide_border=true" alt="Rimjhim's GitHub stats"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rimjhimm12&layout=compact&theme=radical&hide_border=true" alt="Top languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rimjhimm12&theme=radical&hide_border=true" alt="GitHub streak stats"/>
+  <img src="https://streak-stats.demolab.com/?user=Rimjhimm12&theme=radical&hide_border=true" alt="GitHub streak stats"/>
 </p>
 
 ---
@@ -94,5 +94,5 @@
   <a href="mailto:rimjhimmallick6@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,11&height=100&section=footer" width="100%" alt="Purple and teal wave footer"/>
+<img src="https://raw.githubusercontent.com/Rimjhimm12/Rimjhimm12/main/assets/banner-footer.svg" width="100%" alt="Purple and teal wave footer"/>
 
