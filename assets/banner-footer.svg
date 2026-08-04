@@ -1,0 +1,10 @@
+<svg viewBox="0 0 1200 100" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Purple and teal wave footer">
+  <defs>
+    <linearGradient id="gf" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7b2ff7"/>
+      <stop offset="50%" stop-color="#4361ee"/>
+      <stop offset="100%" stop-color="#00c9a7"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#gf)" d="M0,100 L1200,100 L1200,30 C1050,0 950,50 800,25 C650,0 550,50 400,20 C250,0 150,40 0,15 Z"/>
+</svg>
